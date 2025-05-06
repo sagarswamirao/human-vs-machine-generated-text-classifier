@@ -86,7 +86,7 @@ These results clearly demonstrated that transformer-based models, particularly *
 
 ## Resources
 
-The pre-trained model weights for **RoBERTa Base** and **RoBERTa Large** can be found at the following link:
+The finetuned model weights for **RoBERTa Base** and **RoBERTa Large** can be found at the following link:
 [Download RoBERTa Weights](https://drive.google.com/drive/folders/1JbFDA-2eBpspj6PmfKxm6z3DBIK8-NfK?usp=sharing)
 
 ## Acknowledgements
